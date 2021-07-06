@@ -1,3 +1,3 @@
 # Stream-Control-Center
 
-A virtual Cross-Platform Stream Deck
+A W.I.P. virtual Cross-Platform Stream Deck
